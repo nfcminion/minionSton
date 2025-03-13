@@ -1,2 +1,2 @@
 # minionSton
-https://minion.github.io/minionSton
+https://nfcminion.github.io/minionSton/

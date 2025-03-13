@@ -1,2 +1,2 @@
 # minionSton
-pon
+https://minion.github.io/minionSton
